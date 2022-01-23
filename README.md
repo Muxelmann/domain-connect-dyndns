@@ -1,5 +1,8 @@
 # domain-connect-dyndns
 
+[![Software License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/Muxelmann/domain-connect-dyndns/blob/main/LICENSE)
+[![Build, Test, & Lint](https://github.com/muxelmann/domain-connect-dyndns/actions/workflows/docker-image.yml/badge.svg)](https://github.com/Muxelmann/domain-connect-dyndns/blob/main/.github/workflows/docker-image.yml)
+
 Also available on [Docker Hub](https://hub.docker.com/repository/docker/muxelmann/domain-connect-dyndns).
 
 ## tl;dr
